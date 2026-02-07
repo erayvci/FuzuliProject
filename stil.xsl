@@ -94,9 +94,9 @@
 
                 <div class="main-content">
                     <div class="header-section">
-                        <h1>Bahâriye: Manzume-i Kasîde</h1>
+                        <h1>Kasîde</h1>
                         <h3>Fuzûlî</h3>
-                        <p>Digital Edition by Eray Avcı &amp; Uğur Can Yıldız</p>
+                        <p>Digital Edition by Mehmet Eray Avcı &amp; Uğur Can Yıldız</p>
                     </div>
 
                     <xsl:for-each select="//tei:pb">
@@ -126,3 +126,4 @@
         </html>
     </xsl:template>
 </xsl:stylesheet>
+
