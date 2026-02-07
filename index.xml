@@ -4,7 +4,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bahâriye: Manzume-i Kasîde</title>
+            <title>Kasîde</title>
             <author>Fuzûlî</author>
             <respStmt>
                <resp>Transkripsiyon ve TEI Kodlama</resp>
@@ -363,3 +363,4 @@
       </body>
   </text>
 </TEI>
+
