@@ -26,7 +26,7 @@
   </teiHeader>
   <text>
       <body>
-        <pb n="1r" facs="images/sayfa1.png"/>
+        <pb n="1r" facs="images/image1.png"/>
          <div type="poem" xml:lang="ota-Latn">
             <lg n="1" type="couplet">
                <l n="a">Hevâ ‘arāyis-i gülzāre oldı çihre-güşā</l>
@@ -207,3 +207,4 @@
       </body>
   </text>
 </TEI>
+
