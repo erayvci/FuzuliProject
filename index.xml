@@ -5,206 +5,76 @@
       <fileDesc>
          <titleStmt>
             <title>Bahâriye: Manzume-i Kasîde</title>
-            <author>Bilinmiyor</author>
+            <author>Fuzûlî</author>
             <respStmt>
                <resp>Transkripsiyon ve TEI Kodlama</resp>
-               <name>Gemini</name>
+               <name>Eray Avcı</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>Akademik çalışma amaçlı dijital edisyon taslağı.</p>
+            <p>Freie Universität Berlin - Digital Humanities Project</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Görsel kaynaklardan (Ekran Resimleri) transkribe edilmiştir.</p>
+            <p>Görsel kaynaklardan (image1.png, image2.png, image3.png) transkribe edilmiştir.</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <editorialDecl>
-            <p>Transkripsiyon için standart ilmî transkripsiyon alfabesi kullanılmıştır.</p>
-         </editorialDecl>
-      </encodingDesc>
   </teiHeader>
   <text>
       <body>
-        <pb n="1r" facs="images/image1.png"/>
-         <div type="poem" xml:lang="ota-Latn">
-            <lg n="1" type="couplet">
-               <l n="a">Hevâ ‘arāyis-i gülzāre oldı çihre-güşā</l>
-               <l n="b">Bahār gülşene geydürdi hülle-yi ḥażrā</l>
-            </lg>
-            <lg n="2" type="couplet">
-               <l n="a">Çemen eyāletine oldı naṣb ḫusrev gül</l>
-               <l n="b">Hevāya ebr ṣıfat ḥükmin étmege icrā</l>
-            </lg>
-            <lg n="3" type="couplet">
-               <l n="a">Yazıldı sebze-yi nev-ḫīzden ḫaṭṭ-ı aḥkām</l>
-               <l n="b">Çekildi sāye-yi maṭbū‘-ı servden ṭuğrā</l>
-            </lg>
-            <lg n="4" type="couplet">
-               <l n="a">Şarīr-i āb-ı revān u ṣafīr-i murġ-ı çemen</l>
-               <l n="b">Nükāt-ı tehniye-yi maḳdem étdiler inşā</l>
-            </lg>
-            <lg n="5" type="couplet">
-               <l n="a">Zebān-ı sūsen-i āzād u sebze-yi nev-ḫīz</l>
-               <l n="b">Şenā-yı rif‘at u iclāle oldılar gūyā</l>
-            </lg>
-            <lg n="6" type="couplet">
-               <l n="a">Şaḳāyıḳ alnı zemīn-būsdan olup mecrūḥ</l>
-               <l n="b">Benefşe ḳāmeti oldı tevāżu‘ ile dü-tā</l>
-            </lg>
-            <lg n="7" type="couplet">
-               <l n="a">Müretteb eyledi bir bezm gülşen içre bahār</l>
-               <l n="b">Ki vėrdi zevḳ-ı temāşāsı neş’e-yi ṣahbā</l>
-            </lg>
-            <lg n="8" type="couplet">
-               <l n="a">‘Anādil étdi beyān-ı merātib-i naġamāt</l>
-               <l n="b">Ḳamārī oldı terāne-keş ü sürūd-serā</l>
-            </lg>
-            <lg n="9" type="couplet">
-               <l n="a">Şadā-yı murġ bıraḫdı büzürg ü küçege şevḳ</l>
-               <l n="b">Sürūd-ı nāyla ‘uşşāḳa ḥāṣıl oldı nevā</l>
-            </lg>
-            <lg n="10" type="couplet">
-               <l n="a">Bilindi ġoncede gül bergi żāhir olmaġla</l>
-               <l n="b">Ki ġonce başına yağdırdı jāle seng-i cefā</l>
-            </lg>
+         <pb n="1r" facs="images/image1.png"/>
+         <div type="page_content" xml:lang="ota-Latn">
+            <lg n="1" type="couplet"><l n="a">Hevâ ‘arāyis-i gülzāre oldı çihre-güşā</l><l n="b">Bahār gülşene geydürdi hülle-yi ḥażrā</l></lg>
+            <lg n="2" type="couplet"><l n="a">Çemen eyāletine oldı naṣb ḫusrev gül</l><l n="b">Hevāya ebr ṣıfat ḥükmin étmege icrā</l></lg>
+            <lg n="3" type="couplet"><l n="a">Yazıldı sebze-yi nev-ḫīzden ḫaṭṭ-ı aḥkām</l><l n="b">Çekildi sāye-yi maṭbū‘-ı servden ṭuğrā</l></lg>
+            <lg n="4" type="couplet"><l n="a">Şarīr-i āb-ı revān u ṣafīr-i murġ-ı çemen</l><l n="b">Nükāt-ı tehniye-yi maḳdem étdiler inşā</l></lg>
+            <lg n="5" type="couplet"><l n="a">Zebān-ı sūsen-i āzād u sebze-yi nev-ḫīz</l><l n="b">Şenā-yı rif‘at u iclāle oldılar gūyā</l></lg>
+            <lg n="6" type="couplet"><l n="a">Şaḳāyıḳ alnı zemīn-būsdan olup mecrūḥ</l><l n="b">Benefşe ḳāmeti oldı tevāżu‘ ile dü-tā</l></lg>
+            <lg n="7" type="couplet"><l n="a">Müretteb eyledi bir bezm gülşen içre bahār</l><l n="b">Ki vėrdi zevḳ-ı temāşāsı neş’e-yi ṣahbā</l></lg>
+            <lg n="8" type="couplet"><l n="a">‘Anādil étdi beyān-ı merātib-i naġamāt</l><l n="b">Ḳamārī oldı terāne-keş ü sürūd-serā</l></lg>
+            <lg n="9" type="couplet"><l n="a">Şadā-yı murġ bıraḫdı büzürg ü küçege şevḳ</l><l n="b">Sürūd-ı nāyla ‘uşşāḳa ḥāṣıl oldı nevā</l></lg>
+            <lg n="10" type="couplet"><l n="a">Bilindi ġoncede gül bergi żāhir olmaġla</l><l n="b">Ki ġonce başına yağdırdı jāle seng-i cefā</l></lg>
+            <lg n="11" type="couplet"><l n="a">Cerāḥat olmasa a‘żāda żāhir olmaz ḳan</l><l n="b">Tereşşuḥ eylemez elbette sınmadın mīnā</l></lg>
+            <lg n="12" type="couplet"><l n="a">Hümāy-veş varaḳ-ı yāsemīn ü berg-i semen</l><l n="b">Uçup hevāya gülistāna düşdi żıll-ı hümā</l></lg>
+            <lg n="13" type="couplet"><l n="a">Bahār tāciri mışr-ı çemen ġanīlerine</l><l n="b">Bıraḫdı Yūsuf-ı gül ‘arż eyleyüp ġavġā</l></lg>
+            <lg n="14" type="couplet"><l n="a">Bu zevḳ ṣaldı Züleyḫā-yı lāleye bir şevḳ</l><l n="b">Ki la‘l ü müşg töküp vėrdi ağırınca bahā</l></lg>
+         </div>
 
-            <lg n="11" type="couplet">
-               <l n="a">Cerāḥat olmasa a‘żāda żāhir olmaz ḳan</l>
-               <l n="b">Tereşşuḥ eylemez elbette sınmadın mīnā</l>
-            </lg>
-            <lg n="12" type="couplet">
-               <l n="a">Hümāy-veş varaḳ-ı yāsemīn ü berg-i semen</l>
-               <l n="b">Uçup hevāya gülistāna düşdi żıll-ı hümā</l>
-            </lg>
-            <lg n="13" type="couplet">
-               <l n="a">Bahār tāciri mışr-ı çemen ġanīlerine</l>
-               <l n="b">Bıraḫdı Yūsuf-ı gül ‘arż eyleyüp ġavġā</l>
-            </lg>
-            <lg n="14" type="couplet">
-               <l n="a">Bu zevḳ ṣaldı Züleyḫā-yı lāleye bir şevḳ</l>
-               <l n="b">Ki la‘l ü müşg töküp vėrdi ağırınca bahā</l>
-            </lg>
-            <lg n="15" type="couplet">
-               <l n="a">Ḥadīḳa taḥta-yı ta‘līm olup reyāḥīnden</l>
-               <l n="b">Yazıldı mühmel ü mu‘cem aña ḥurūf-ı hecā</l>
-            </lg>
-            <lg n="16" type="couplet">
-               <l n="a">Müzeyyen eyledi evrāḳ-ı lāleyi şebnem</l>
-               <l n="b">Ḥurūf-ı lālede olmaz egerçi noḳṭa revā</l>
-            </lg>
-            <lg n="17" type="couplet">
-               <l n="a">Götürdi şebnemi ezhārdan ḥarāret-i mihr</l>
-               <l n="b">Şükūfe noḳṭaların gerçi ḥükm éder imlā</l>
-            </lg>
-            <lg n="18" type="couplet">
-               <l n="a">Debīr-i bād vėrüp ṭıfl-ı ‘andelībe sabaḳ</l>
-               <l n="b">Götürdi çihre-yi ezhārdan niḳāb-ı ḫafā</l>
-            </lg>
-            <lg n="19" type="couplet">
-               <l n="a">Ḳamu dıraḫt bulup ref‘-i istiḳāmet-i ḥāl</l>
-               <l n="b">Şükūfe ḥamli ile kesr buldılar illā</l>
-            </lg>
-            <lg n="20" type="couplet">
-               <l n="a">Nihāl-i bī-bedel-i serv kim ḳalup manṣūb</l>
-               <l n="b">Şebāt-ı ḥāl ile anlardan oldı müsteşnā</l>
-            </lg>
-            <lg n="21" type="couplet">
-               <l n="a">Şadā-yı seyl çeker medd-i muttaṣıl ya‘nī</l>
-               <l n="b">Ki medd-i muttaṣıl ile olur ḳırā’at-ı mā</l>
-            </lg>
-            <lg n="22" type="couplet">
-               <l n="a">Görindi hey’et-i āb-ı revānda şekl-i ḥabāb</l>
-               <l n="b">Şübūta yėtdi şebāt-ı nücūm u seyr-i semā</l>
-            </lg>
-            <lg n="23" type="couplet">
-               <l n="a">Ḥuṭūṭ-ı muḫtelif ü müstaḳīmi enhāruñ</l>
-               <l n="b">Çemende ṣaldı zevāyā-yı gūne gūne binā</l>
-            </lg>
+         <pb n="2r" facs="images/image2.png"/>
+         <div type="page_content" xml:lang="ota-Latn">
+            <lg n="15" type="couplet"><l n="a">Ḥadīḳa taḥta-yı ta‘līm olup reyāḥīnden</l><l n="b">Yazıldı mühmel ü mu‘cem aña ḥurūf-ı hecā</l></lg>
+            <lg n="16" type="couplet"><l n="a">Müzeyyen eyledi evrāḳ-ı lāleyi şebnem</l><l n="b">Ḥurūf-ı lālede olmaz egerçi noḳṭa revā</l></lg>
+            <lg n="17" type="couplet"><l n="a">Götürdi şebnemi ezhārdan ḥarāret-i mihr</l><l n="b">Şükūfe noḳṭaların gerçi ḥükm éder imlā</l></lg>
+            <lg n="18" type="couplet"><l n="a">Debīr-i bād vėrüp ṭıfl-ı ‘andelībe sabaḳ</l><l n="b">Götürdi çihre-yi ezhārdan niḳāb-ı ḫafā</l></lg>
+            <lg n="19" type="couplet"><l n="a">Ḳamu dıraḫt bulup ref‘-i istiḳāmet-i ḥāl</l><l n="b">Şükūfe ḥamli ile kesr buldılar illā</l></lg>
+            <lg n="20" type="couplet"><l n="a">Nihāl-i bī-bedel-i serv kim ḳalup manṣūb</l><l n="b">Şebāt-ı ḥāl ile anlardan oldı müsteşnā</l></lg>
+            <lg n="21" type="couplet"><l n="a">Şadā-yı seyl çeker medd-i muttaṣıl ya‘nī</l><l n="b">Ki medd-i muttaṣıl ile olur ḳırā’at-ı mā</l></lg>
+            <lg n="22" type="couplet"><l n="a">Görindi hey’et-i āb-ı revānda şekl-i ḥabāb</l><l n="b">Şübūta yėtdi şebāt-ı nücūm u seyr-i semā</l></lg>
+            <lg n="23" type="couplet"><l n="a">Ḥuṭūṭ-ı muḫtelif ü müstaḳīmi enhāruñ</l><l n="b">Çemende ṣaldı zevāyā-yı gūne gūne binā</l></lg>
+            <lg n="24" type="couplet"><l n="a">Ri‘āyet-i ṭuruḳ-ı müstaḳīmden nėçe kim</l><l n="b">Olur ḥuṣūl-i maḳāmāt-ı cennetü’l-me’vā</l></lg>
+            <lg n="25" type="couplet"><l n="a">Hevā-yı bāġdan étdüm bu ḥikmeti ma‘lūm</l><l n="b">Ki i‘tidāldedür ṣıḥḥat-ı ḥavāss u ḳuvā</l></lg>
+            <lg n="26" type="couplet"><l n="a">Bahār gülşeni ezhārla görüp memlū</l><l n="b">Yaḳīnüm oldı ki mümkün degül vücūd-ı ḫalā</l></lg>
+            <lg n="27" type="couplet"><l n="a">Naẓarda olmaġ ile ṣubḥ u şām ġonce vü gül</l><l n="b">Bedīhī oldı kemāl ehline ḥuṣūl-i ṣafā</l></lg>
+            <lg n="28" type="couplet"><l n="a">Netīce sālibe olmaḳ ḫilāf-ı ‘ādetdür</l><l n="b">Olınca mūcib-i ṣuġrāya müttefiḳ kübrā</l></lg>
+         </div>
 
-            <lg n="24" type="couplet">
-               <l n="a">Ri‘āyet-i ṭuruḳ-ı müstaḳīmden nėçe kim</l>
-               <l n="b">Olur ḥuṣūl-i maḳāmāt-ı cennetü’l-me’vā</l>
-            </lg>
-            <lg n="25" type="couplet">
-               <l n="a">Hevā-yı bāġdan étdüm bu ḥikmeti ma‘lūm</l>
-               <l n="b">Ki i‘tidāldedür ṣıḥḥat-ı ḥavāss u ḳuvā</l>
-            </lg>
-            <lg n="26" type="couplet">
-               <l n="a">Bahār gülşeni ezhārla görüp memlū</l>
-               <l n="b">Yaḳīnüm oldı ki mümkün degül vücūd-ı ḫalā</l>
-            </lg>
-            <lg n="27" type="couplet">
-               <l n="a">Naẓarda olmaġ ile ṣubḥ u şām ġonce vü gül</l>
-               <l n="b">Bedīhī oldı kemāl ehline ḥuṣūl-i ṣafā</l>
-            </lg>
-            <lg n="28" type="couplet">
-               <l n="a">Netīce sālibe olmaḳ ḫilāf-ı ‘ādetdür</l>
-               <l n="b">Olınca mūcib-i ṣuġrāya müttefiḳ kübrā</l>
-            </lg>
-            <lg n="29" type="couplet">
-               <l n="a">Żamīr-i gül-büne gül rengi ṣaldı āteş-i bīm</l>
-               <l n="b">Ki ḥumre ḳana olur nefs evinde rāh-nümā</l>
-            </lg>
-            <lg n="30" type="couplet">
-               <l n="a">Gül āteş üzere ḳılur ‘ıḳd-ı zühre-yi şebnem</l>
-               <l n="b">Tedārik-i ḳamer ü şems éder ṣabāḥ u mesā</l>
-            </lg>
-            <lg n="31" type="couplet">
-               <l n="a">Bu kīmiyā sebebinden ‘aceb midür olsa</l>
-               <l n="b">Elinde dāne-yi erzen meşābesinde ṭılā</l>
-            </lg>
-            <lg n="32" type="couplet">
-               <l n="a">Şükūfe sīmine farż eyledi ḫurūc-ı zekāt</l>
-               <l n="b">Medār-ı ḥavl u bülūġ niṣāb ü istinmā</l>
-            </lg>
-
-            <lg n="33" type="couplet">
-               <l n="a">Ḥuḳūḳ def‘i içün aġniyā-yı eşcāra</l>
-               <l n="b">Ṣaḥāyif-i çemen oldı eyādi-yi fuḳarā</l>
-            </lg>
-            <lg n="34" type="couplet">
-               <l n="a">Bahārdan ten-i gül-bünde eyleyüp heyecān</l>
-               <l n="b">Ḥarāret-i demevī ḳıldı ġuddeler peydā</l>
-            </lg>
-            <lg n="35" type="couplet">
-               <l n="a">Boyandı ḳanı ile ṣafḥa-yı çemen gül gül</l>
-               <l n="b">Meger ki faṣlına ḥükm eylemiş ṭabīb-i hevā</l>
-            </lg>
-            <lg n="36" type="couplet">
-               <l n="a">Ḥibāl-i siḥre dönüp cünbiş-i cedāvil-i āb</l>
-               <l n="b">Kelīm-i serv aña ‘aksdin bıraḫdı ‘aṣā</l>
-            </lg>
-            <lg n="37" type="couplet">
-               <l n="a">Olup terennüm-i bülbül ‘azāyim-i teshīr</l>
-               <l n="b">Çemen perīlerine lāzım oldı ‘arż-ı liḳā</l>
-            </lg>
-            <lg n="38" type="couplet">
-               <l n="a">Bisāṭ-ı gülşene dün eyledüm güzer ki demi</l>
-               <l n="b">Ḳılam neẓāre-yi āşār-ı ḳudret-i mevlā</l>
-            </lg>
-            <lg n="39" type="couplet">
-               <l n="a">‘Aceb nizā‘ ile gördüm çemen żarīflerin</l>
-               <l n="b">Ta‘aṣṣub ile ḳamu sālik-i ṭarīḳ-ı ḫatā</l>
-            </lg>
-            <lg n="40" type="couplet">
-               <l n="a">Ḳamu gümān ile müsted‘ī-yi ṭarīḳ-ı necāt</l>
-               <l n="b">Velī ḳamusına bāṭıl delīl-i istid‘ā</l>
-            </lg>
-            <lg n="41" type="couplet">
-               <l n="a">Şanup şükūfe mebādī ṣunūf-ı eşcārı</l>
-               <l n="b">Ḳılurdı baḥş ki cā’iz ta‘addüd-i ḳudemā</l>
-            </lg>
-            <lg n="42" type="couplet">
-               <l n="a">Vėrüp teselsüle ḳuvvet ṭabī‘at-ı kec-i āb</l>
-               <l n="b">Olurdı nāfī-yi is̱bāt-ı ‘illet-i ūlā</l>
-            </lg>
-            <lg n="43" type="couplet">
-               <l n="a">Ḫayāl-i maḥż şanup kāyinātı nergis-i mest</l>
-               <l n="b">Ḳılurdı cehl ile nefy-i ḥaḳāyıḳ-ı eşyā</l>
-            </lg>
+         <pb n="3r" facs="images/image3.png"/>
+         <div type="page_content" xml:lang="ota-Latn">
+            <lg n="29" type="couplet"><l n="a">Żamīr-i gül-büne gül rengi ṣaldı āteş-i bīm</l><l n="b">Ki ḥumre ḳana olur nefs evinde rāh-nümā</l></lg>
+            <lg n="30" type="couplet"><l n="a">Gül āteş üzere ḳılur ‘ıḳd-ı zühre-yi şebnem</l><l n="b">Tedārik-i ḳamer ü şems éder ṣabāḥ u mesā</l></lg>
+            <lg n="31" type="couplet"><l n="a">Bu kīmiyā sebebinden ‘aceb midür olsa</l><l n="b">Elinde dāne-yi erzen meşābesinde ṭılā</l></lg>
+            <lg n="32" type="couplet"><l n="a">Şükūfe sīmine farż eyledi ḫurūc-ı zekāt</l><l n="b">Medār-ı ḥavl u bülūġ niṣāb ü istinmā</l></lg>
+            <lg n="33" type="couplet"><l n="a">Ḥuṭūṭ-ı muḫtelif ü müstaḳīmi enhāruñ</l><l n="b">Çemende ṣaldı zevāyā-yı gūne gūne binā</l></lg>
+            <lg n="34" type="couplet"><l n="a">Bahārdan ten-i gül-bünde eyleyüp heyecān</l><l n="b">Ḥarāret-i demevī ḳıldı ġuddeler peydā</l></lg>
+            <lg n="35" type="couplet"><l n="a">Boyandı ḳanı ile ṣafḥa-yı çemen gül gül</l><l n="b">Meger ki faṣlına ḥükm eylemiş ṭabīb-i hevā</l></lg>
+            <lg n="36" type="couplet"><l n="a">Ḥibāl-i siḥre dönüp cünbiş-i cedāvil-i āb</l><l n="b">Kelīm-i serv aña ‘aksdin bıraḫdı ‘aṣā</l></lg>
+            <lg n="37" type="couplet"><l n="a">Olup terennüm-i bülbül ‘azāyim-i teshīr</l><l n="b">Çemen perīlerine lāzım oldı ‘arż-ı liḳā</l></lg>
+            <lg n="38" type="couplet"><l n="a">Bisāṭ-ı gülşene dün eyledüm güzer ki demi</l><l n="b">Ḳılam neẓāre-yi āşār-ı ḳudret-i mevlā</l></lg>
+            <lg n="39" type="couplet"><l n="a">‘Aceb nizā‘ ile gördüm çemen żarīflerin</l><l n="b">Ta‘aṣṣub ile ḳamu sālik-i ṭarīḳ-ı ḫatā</l></lg>
+            <lg n="40" type="couplet"><l n="a">Ḳamu gümān ile müsted‘ī-yi ṭarīḳ-ı necāt</l><l n="b">Velī ḳamusına bāṭıl delīl-i istid‘ā</l></lg>
+            <lg n="41" type="couplet"><l n="a">Şanup şükūfe mebādī ṣunūf-ı eşcārı</l><l n="b">Ḳılurdı baḥş ki cā’iz ta‘addüd-i ḳudemā</l></lg>
+            <lg n="42" type="couplet"><l n="a">Vėrüp teselsüle ḳuvvet ṭabī‘at-ı kec-i āb</l><l n="b">Olurdı nāfī-yi is̱bāt-ı ‘illet-i ūlā</l></lg>
+            <lg n="43" type="couplet"><l n="a">Ḫayāl-i maḥż şanup kāyinātı nergis-i mest</l><l n="b">Ḳılurdı cehl ile nefy-i ḥaḳāyıḳ-ı eşyā</l></lg>
          </div>
       </body>
   </text>
 </TEI>
-
